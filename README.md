@@ -1,2 +1,2 @@
-# KMeans-Segmentation
-Color-based image segmentation using K-Means Clustering
+# K-Means Image Segmentation
+slow af
